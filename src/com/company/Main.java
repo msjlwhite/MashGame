@@ -1,5 +1,5 @@
-package com.company;
-
+// package com.company;
+// import com.company.Inquiry;
 public class Main {
 
     public static void main(String[] args) {
@@ -7,5 +7,8 @@ public class Main {
 
         Inquiry ask = new Inquiry();
         ask.questions();
+
+ 
     }
+
 }
